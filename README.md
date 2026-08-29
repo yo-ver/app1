@@ -1,6 +1,6 @@
 # app_prueba_github
 
-Proyecto de Manos Limpias
+Proyecto de Manos Limpias V.2
 
 ## Getting Started
 
