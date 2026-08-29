@@ -1,6 +1,6 @@
 # app_prueba_github
 
-A new Flutter project.
+Proyecto de Manos Limpias
 
 ## Getting Started
 
